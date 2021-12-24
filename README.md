@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Guilherm!
+### Hi there 👋 I'm Guilherme!
 - ☕ I’m currently learning Java
 <div>
   <a href="https://github.com/guilhermeluan">
